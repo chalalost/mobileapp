@@ -1,0 +1,1 @@
+export const DATA_PAGE_INPUT = 'DATA_PAGE_INPUT';
